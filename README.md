@@ -32,5 +32,5 @@ An AI-based learning assistant that helps students understand concepts, summariz
 * Multilingual support
 * Progress tracking
 
-
+Check the project pdf :- AIPowered-Study-Buddy.pdf
 
