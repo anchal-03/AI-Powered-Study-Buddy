@@ -1,6 +1,5 @@
 # AI-Powered-Study-Buddy
 This is my first project
-# AI-Powered Study Buddy
 
 ## 📌 Overview
 
@@ -33,12 +32,5 @@ An AI-based learning assistant that helps students understand concepts, summariz
 * Multilingual support
 * Progress tracking
 
-## 🚀 Installation
 
-```bash
-git clone <repository_link>
-cd AI-Powered-Study-Buddy
-pip install -r requirements.txt
-streamlit run app.py
-```
 
